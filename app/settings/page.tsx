@@ -20,7 +20,7 @@ export default async function DashboardPage() {
           <div className="mb-10">
             <h1 className="text-3xl font-bold tracking-tight">Kvitra</h1>
             <p className="mt-2 text-sm text-[#d2c8bc]">
-              Indstillinger
+              Indstillinger - Hej med dig
             </p>
           </div>
 
