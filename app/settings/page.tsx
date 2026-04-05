@@ -20,8 +20,12 @@ export default async function DashboardPage() {
           <div className="mb-10">
             <h1 className="text-3xl font-bold tracking-tight">Kvitra</h1>
             <p className="mt-2 text-sm text-[#d2c8bc]">
-              Indstillinger - Hej med dig
+              Indstillinger
             </p>
+          </div>
+          <div>
+            
+            <button>Slet din konto</button>
           </div>
 
           <Link
